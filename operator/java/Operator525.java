@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Operator525 {
 	
-	/* ¹®Á¦ : ¿¬»êÀÚ - ÀÚ°¡Áø´Ü
-	 * 3°³ÀÇ Á¤¼ö¸¦ ÀÔ·Â ¹Þ¾Æ Ã¹ ¹øÂ° ¼ö°¡ °¡Àå Å©¸é 1 ¾Æ´Ï¸é 0À» Ãâ·ÂÇÏ°í ¼¼ °³ÀÇ ¼ö°¡ ¸ðµÎ °°À¸¸é 1 ¾Æ´Ï¸é 0À» Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À»
-	 * ÀÛ¼ºÇÏ½Ã¿À.
-	 * (JAVA´Â 1ÀÌ¸é true, 0ÀÌ¸é false¸¦ Ãâ·ÂÇÑ´Ù.)
+	/* ë¬¸ì œ : ì—°ì‚°ìž - ìžê°€ì§„ë‹¨
+	 * 3ê°œì˜ ì •ìˆ˜ë¥¼ ìž…ë ¥ ë°›ì•„ ì²« ë²ˆì§¸ ìˆ˜ê°€ ê°€ìž¥ í¬ë©´ 1 ì•„ë‹ˆë©´ 0ì„ ì¶œë ¥í•˜ê³  ì„¸ ê°œì˜ ìˆ˜ê°€ ëª¨ë‘ ê°™ìœ¼ë©´ 1 ì•„ë‹ˆë©´ 0ì„ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„
+	 * ìž‘ì„±í•˜ì‹œì˜¤.
+	 * (JAVAëŠ” 1ì´ë©´ true, 0ì´ë©´ falseë¥¼ ì¶œë ¥í•œë‹¤.)
 	 */
 	
 	public static void main(String[] args) {
