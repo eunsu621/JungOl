@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Operator522 {
 	
-	/* ¿¬»êÀÚ - ÀÚ°¡Áø´Ü4
-	 * µÎ °³ÀÇ Á¤¼ö¸¦ ÀÔ·Â¹Þ¾Æ¼­ Ã¹ ¹øÂ°¼ö´Â ÈÄÄ¡ Áõ°¡ ¿¬»êÀÚ¸¦ »ç¿ëÇÏ°í µÎ ¹øÂ° ¼ö´Â ÀüÄ¡ °¨¼Ò ¿¬»êÀÚ¸¦ »ç¿ëÇÏ¿© µÎ ¼öÀÇ °öÀ» ±¸ÇÑ ÈÄ
-	 * °¢°¢ÀÇ °ªÀ» Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+	/* ì—°ì‚°ìž - ìžê°€ì§„ë‹¨4
+	 * ë‘ ê°œì˜ ì •ìˆ˜ë¥¼ ìž…ë ¥ë°›ì•„ì„œ ì²« ë²ˆì§¸ìˆ˜ëŠ” í›„ì¹˜ ì¦ê°€ ì—°ì‚°ìžë¥¼ ì‚¬ìš©í•˜ê³  ë‘ ë²ˆì§¸ ìˆ˜ëŠ” ì „ì¹˜ ê°ì†Œ ì—°ì‚°ìžë¥¼ ì‚¬ìš©í•˜ì—¬ ë‘ ìˆ˜ì˜ ê³±ì„ êµ¬í•œ í›„
+	 * ê°ê°ì˜ ê°’ì„ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ìž‘ì„±í•˜ì‹œì˜¤.
 	 */
 	
 	public static void main(String[] args) {
