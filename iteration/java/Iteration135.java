@@ -1,12 +1,41 @@
 package iteration;
 
+import java.util.Scanner;
+
 public class Iteration135 {
 	
-	/* ¹®Á¦ : ¹İº¹Á¦¾î¹®2 - Çü¼ºÆò°¡
-	 * µÎ °³ÀÇ Á¤¼ö¸¦ ÀÔ·Â¹Ş¾Æ µÎ Á¤¼ö »çÀÌ(µÎ Á¤¼ö¸¦ Æ÷ÇÔ)¿¡ 3ÀÇ ¹è¼öÀÌ°Å³ª 5ÀÇ ¹è¼öÀÎ ¼öµéÀÇ ÇÕ°ú Æò±ÕÀ» Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
-	 * (Æò±ÕÀº ¹İ¿Ã¸²ÇÏ¿© ¼Ò¼ö Ã¹Â°ÀÚ¸®±îÁö Ãâ·ÂÇÑ´Ù.)
+	/* ë¬¸ì œ : ë°˜ë³µì œì–´ë¬¸2 - í˜•ì„±í‰ê°€
+	 * ë‘ ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥ë°›ì•„ ë‘ ì •ìˆ˜ ì‚¬ì´(ë‘ ì •ìˆ˜ë¥¼ í¬í•¨)ì— 3ì˜ ë°°ìˆ˜ì´ê±°ë‚˜ 5ì˜ ë°°ìˆ˜ì¸ ìˆ˜ë“¤ì˜ í•©ê³¼ í‰ê· ì„ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨ì„ ì‘ì„±í•˜ì‹œì˜¤.
+	 * (í‰ê· ì€ ë°˜ì˜¬ë¦¼í•˜ì—¬ ì†Œìˆ˜ ì²«ì§¸ìë¦¬ê¹Œì§€ ì¶œë ¥í•œë‹¤.)
 	 */
 	
-	
+	public static void main(String[] args) {
+
+		Scanner scan = new Scanner(System.in);
+
+		int num1 = scan.nextInt();
+		int num2 = scan.nextInt();
+		
+		int sum = 0,
+			count = 0;
+		
+		double avg = 0;
+		
+		int max = (num1 > num2) ? num1 : num2;
+		int min = (num1 < num2) ? num1 : num2;
+		
+		for (int i = min; i <= max; i++) {
+			
+			if (i % 3 == 0 || i % 5 == 0) {
+				sum += i;
+				count++;
+			}
+		}
+		avg = (double)sum / count;
+		
+		System.out.println("sum : " + sum);
+		System.out.println("avg : " + Math.round(avg * 10) / 10.0);
+		
+	}
 
 }
