@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Iteraion134 {
 
-	/* ¹®Á¦ : ¹Ýº¹Á¦¾î¹®2 - Çü¼ºÆò°¡5
-	 * 10°³ÀÇ Á¤¼ö¸¦ ÀÔ·Â¹Þ¾Æ ÀÔ·Â¹ÞÀº ¼öµé Áß Â¦¼öÀÇ °³¼ö¿Í È¦¼öÀÇ °³¼ö¸¦ °¢°¢ ±¸ÇÏ¿© Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+	/* ë¬¸ì œ : ë°˜ë³µì œì–´ë¬¸2 - í˜•ì„±í‰ê°€5
+	 * 10ê°œì˜ ì •ìˆ˜ë¥¼ ìž…ë ¥ë°›ì•„ ìž…ë ¥ë°›ì€ ìˆ˜ë“¤ ì¤‘ ì§ìˆ˜ì˜ ê°œìˆ˜ì™€ í™€ìˆ˜ì˜ ê°œìˆ˜ë¥¼ ê°ê° êµ¬í•˜ì—¬ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ìž‘ì„±í•˜ì‹œì˜¤.
 	 */
 	
 	public static void main(String[] args) {
