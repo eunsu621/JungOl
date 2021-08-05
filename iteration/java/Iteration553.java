@@ -2,10 +2,10 @@ package iteration;
 
 import java.util.Scanner;
 
-public class Iteration533 {
+public class Iteration553 {
 	
 	/*
-	 * ÀÚ¿¬¼ö n( 3 <= n <= 10) À» ÀÔ·Â¹Ş¾Æ ´ÙÀ½°ú °°ÀÌ ¿µ¹®ÀÚ¸¦ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+	 * ìì—°ìˆ˜ n( 3 <= n <= 10) ì„ ì…ë ¥ë°›ì•„ ë‹¤ìŒê³¼ ê°™ì´ ì˜ë¬¸ìë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨ì„ ì‘ì„±í•˜ì‹œì˜¤.
 	 */
 	
 	public static void main(String[] args) {
