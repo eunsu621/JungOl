@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Array563 {
 	
-	/* ¹®Á¦ : ¹è¿­1 - ÀÚ°¡Áø´Ü9
-	 * 10°³ÀÇ Á¤¼ö¸¦ ÀÔ·Â¹Þ¾Æ ¹è¿­¿¡ ÀúÀåÇÑ ÈÄ ³»¸²Â÷¼øÀ¸·Î Á¤·ÄÇÏ¿© Ãâ·ÂÇÏ½Ã¿À.
+	/* ë¬¸ì œ : ë°°ì—´1 - ìžê°€ì§„ë‹¨9
+	 * 10ê°œì˜ ì •ìˆ˜ë¥¼ ìž…ë ¥ë°›ì•„ ë°°ì—´ì— ì €ìž¥í•œ í›„ ë‚´ë¦¼ì°¨ìˆœìœ¼ë¡œ ì •ë ¬í•˜ì—¬ ì¶œë ¥í•˜ì‹œì˜¤.
 	 */
 	
 	public static void main(String[] args) {
